@@ -1,8 +1,8 @@
-||| Live Tracking Frontend
+### Live Tracking Frontend
 
 The Live Tracking Frontend is a React.js web application built to visualize and interact with real-time location data provided by the Live Tracking Backend. It enables users to monitor live positions of assets, vehicles, or users on an interactive map with smooth updates and an intuitive UI.
 
-|| Key Features
+## Key Features
 
 Real-Time Map Updates: Displays live movement of users/devices using WebSocket or Socket.IO.
 
@@ -12,7 +12,7 @@ API Integration: Connects seamlessly with the Node.js Live Tracking Backend.
 
 Performance Optimized: Efficient rendering and state updates for continuous tracking.
 
-|| Tech Stack
+## Tech Stack
 
 Frontend: React.js (with Hooks)
 
